@@ -6,4 +6,3 @@ jQuery(function($){
       $('.panel').eq(idx).addClass('is-show');
     });
   });
-  
